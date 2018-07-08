@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//test/common/functions.py=utf-8
+encoding//test/common/gradient.py=utf-8
+encoding//test/common/layers.py=utf-8
+encoding//test/train_neuralnet.py=utf-8
+encoding//test/two_layer_net.py=utf-8
